@@ -26,3 +26,4 @@
     6. Test case results
     7. Bugs report
     8. Test completion report
+1. Introduction
