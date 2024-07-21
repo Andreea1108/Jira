@@ -56,6 +56,100 @@ For this version of the application the functionalities in the scope of testing 
   - Other browsers except Chrome and Mozilla are out of scope;
   - Automation testing is beyond scope .
 
+2.Test process
+
+  Test planning :
+  Roles and responsibilities
+  
+| Role 1|Alina Maria- Test lead - Will monitor the testing process|
+| :-----: | :---: |
+| Role 2 | Ana Gavrila- Junior Tester - Will write the test conditions and test cases for Overview, Filter and Image Manager | 
+| Role 3 | Boier Alexandru - Senior Tester - Will create the test conditions and test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
+| Role 4 | Giurgiu Alexandru - Tester - Will execute the test cases for Overview, Filter and Image Manager and report the defects | 
+| Role 5 | Sabin Bura - Senior Tester -  Will execute the test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
+
+Entry criteria :
+
+- Functional business specifications are defined ;
+- Roles and responsabilities have been allocated ;
+- The test environment is up and running ;
+- Initial risks were identified ;
+- The test plan was created and test process is detailed for the functionalities in scope.
+
+Exit criteria :
+
+- All the test cases were executed ;
+- 90% of test cases are passed ;
+- The remaining defects/bugs have low severity and low priority ;
+- The project deadline was reached ;
+- The project budget was reached ;
+
+Project risks : 
+
+- The team does not have the proper knowledge and experience for web testing ;
+- Test environment not working ;
+- Short/tight deadlines ;
+- Due to the company changes we might have levers .
+
+Product risks :
+
+ - Taking into account that Admin is  the only module in scope of testing, the rest of them will be at risk of not fulfilling the user needs ;
+ - Validation constraints on some of the fields might be too restrictive .
+
+2.2 Test analysis 
+
+- Analyze the business requirements to make sure that we have all the details for creating the test conditions ;
+- Write test conditions that will be tested in our testing process.
+
+2.3 Test design
+
+In this phase we will create the test cases based on the previously defined test conditions.
+
+2.4 Test implementation
+
+- Verify if the test environment is up and running ;
+- Access to the test environment is given: valid username and valid password ;
+- Create test suites (Test cycles) ;
+- We prioritize the test cases based on risks and business priority .
+
+2.5 Test execution
+
+- All functional test cases cases created in Test Design phase are executed and we set the test case status(passed/failed) ;
+- For the test cases failed we will raise defects ;
+- Regression pack has been ran ;
+- Retesting for the bugs that are fixed by the developers to validate that they issues are not reproduced .
+
+2.6 Test closure
+
+- Analyze if the exit criteria were met and the testing process can be closed ;
+- Generate the traceability matrix ;
+- Generate the test completion report .
+
+2.7 Test monitoring and control
+
+In this phase various periodic reports will be generated to reflect the current status of the testing process. In case of major problems, control measures could be taken.
+
+3. Test deliverables
+
+The following test deliverables will be provided by the end of the testing process and sent to the stakeholders in order to create the basis of informed decision : 
+
+- Test plan ;
+- Test conditions ;
+- Test cases ;
+- Daily test summary report ;
+- Traceability matrix ;
+- Test case results ;
+- Bugs report ;
+- Test completion report .
+
+4. Schedule
+
+- The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section ;
+- All the resources will be adapted accordingly in case new testing resources are detected as necessary .
+
+
+
+
 
 
 
