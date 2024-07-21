@@ -26,6 +26,7 @@
     6. Test case results
     7. Bugs report
     8. Test completion report
+4. Schedule
 
   1.Introduction
 
