@@ -150,6 +150,7 @@ The following test deliverables will be provided by the end of the testing proce
 
 ![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
+![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
 
 
 
