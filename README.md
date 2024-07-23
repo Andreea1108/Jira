@@ -148,6 +148,7 @@ The following test deliverables will be provided by the end of the testing proce
 - The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section ;
 - All the resources will be adapted accordingly in case new testing resources are detected as necessary .
 
+![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
 
 
