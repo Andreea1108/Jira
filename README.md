@@ -134,11 +134,11 @@ In this phase various periodic reports will be generated to reflect the current 
 
 The following test deliverables will be provided by the end of the testing process and sent to the stakeholders in order to create the basis of informed decision : 
 
-- Test plan ;
+- Test plan : 
 - Test conditions ;
 - Test cases ;
 - Daily test summary report ;
-- Traceability matrix ;
+- Traceability matrix : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
 - Test case results ;
 - Bugs report ;
 - Test completion report .
@@ -151,8 +151,6 @@ The following test deliverables will be provided by the end of the testing proce
 ![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
 ![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
-
-[Git repo screenshot](https://github.com/Andreea1108/Jira/blob/6b554df342082d66b560f1cd2558e8ec30025da2/Task-uri.pdf)
 
 
 
