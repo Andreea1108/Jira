@@ -152,6 +152,8 @@ The following test deliverables will be provided by the end of the testing proce
 
 ![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
 
+[Git repo screenshot](https://github.com/Andreea1108/Jira/blob/6b554df342082d66b560f1cd2558e8ec30025da2/Task-uri.pdf)
+
 
 
 
