@@ -134,14 +134,14 @@ In this phase various periodic reports will be generated to reflect the current 
 
 The following test deliverables will be provided by the end of the testing process and sent to the stakeholders in order to create the basis of informed decision : 
 
-- Test plan : 
-- Test conditions ;
-- Test cases ;
+- Test plan :
+- Test conditions :
+- Test cases : 
 - Daily test summary report ;
 - Traceability matrix : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
-- Test case results ;
-- Bugs report ;
-- Test completion report .
+- Test case results : 
+- Bugs report : 
+- Test completion report :
 
 4. Schedule
 
