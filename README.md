@@ -152,8 +152,11 @@ The following test deliverables will be provided by the end of the testing proce
 
 ![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
 
-
-
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%201.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%202.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%203.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%204.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%205.png)
 
 
 
