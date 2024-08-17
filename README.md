@@ -153,6 +153,9 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 #### 2.7 Test monitoring and control
 
 In this phase various periodic reports will be generated to reflect the current status of the testing process. In case of major problems, control measures could be taken.
+The Daily report was generated and can be found here : [Daily Report](https://github.com/Andreea1108/Jira/blob/71dc11734f6f9963d0c3cc2c5421e7f21ed4234e/Daily%20Report.png)
+
+![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
 ### 3. Test deliverables
 
@@ -173,7 +176,6 @@ The following test deliverables will be provided by the end of the testing proce
 - The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section ;
 - All the resources will be adapted accordingly in case new testing resources are detected as necessary .
 
-![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
 
 
