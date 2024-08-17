@@ -116,7 +116,7 @@ Product risks :
 
 2.3 Test design
 
-In this phase we will create the test cases based on the previously defined test conditions.
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here : [Test Cases](https://github.com/Andreea1108/Jira/blob/e2190aaccbfc11b837aacdc6d245688356bc330a/Test%20Case-uri.pdf)
 
 2.4 Test implementation
 
