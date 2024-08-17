@@ -66,7 +66,11 @@ For this version of the application the functionalities in the scope of testing 
 
 #### The test process was performed based on the standard test process as described below.
 
-  Test planning :
+  2.1 Test planning
+
+The Test Plan is designed to describe all details of testing for all the modules from the OpenCart Demo application.
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personal responsible for testing, the resources and schedule required to complete testing and the risks associated with the plan. The test plan that was created for this project can be found here : 
+
   Roles and responsibilities
   
 | Role 1|Alina Maria- Test lead - Will monitor the testing process|
