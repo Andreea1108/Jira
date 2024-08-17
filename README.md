@@ -137,7 +137,17 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 - Analyze if the exit criteria were met and the testing process can be closed ;
 - The traceability matrix was generated and can be found here : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
+
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%201.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%202.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%203.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%204.png)
+![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%205.png)
+
 - Test execution chart was generated and can be found here : [Test execution](https://github.com/Andreea1108/Jira/blob/b7f5ff9b1070d9682ebcce25b01d4365784a94f8/Test%20Execution.png)
+
+![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
+
 - Generate the test completion report .
 
 #### 2.7 Test monitoring and control
@@ -165,13 +175,6 @@ The following test deliverables will be provided by the end of the testing proce
 
 ![Daily report](https://github.com/Andreea1108/Jira/blob/main/Daily%20Report.png)
 
-![Test Execution](https://github.com/Andreea1108/Jira/blob/main/Test%20Execution.png)
-
-![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%201.png)
-![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%202.png)
-![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%203.png)
-![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%204.png)
-![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%205.png)
 
 
 
