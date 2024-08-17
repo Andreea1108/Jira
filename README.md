@@ -1,8 +1,8 @@
 # Testing Project for OpenCart
 
-#### The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice , using a live application.
-#### Application under test : OpenCart.
-#### Tools used: Jira, Zephyr Squad.
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice , using a live application.
+Application under test : OpenCart.
+Tools used: Jira, Zephyr Squad.
 
 #### Revision History
 | Date| Description | Author | Comment |
