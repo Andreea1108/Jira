@@ -76,7 +76,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 | Role 1|Alina Maria- Test lead - Will monitor the testing process|
 | :-----: | :---: |
 | Role 2 | Ana Gavrila- Junior Tester - Will write the test conditions and test cases for Overview, Filter and Image Manager | 
-| Role 3 | Boier Alexandru - Senior Tester - Will create the test conditions and test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
+| Role 3 | Andreea Dragastan - Senior Tester - Will create the test conditions and test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
 | Role 4 | Giurgiu Alexandru - Tester - Will execute the test cases for Overview, Filter and Image Manager and report the defects | 
 | Role 5 | Sabin Bura - Senior Tester -  Will execute the test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
 
