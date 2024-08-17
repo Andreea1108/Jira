@@ -135,6 +135,7 @@ In this phase various periodic reports will be generated to reflect the current 
 The following test deliverables will be provided by the end of the testing process and sent to the stakeholders in order to create the basis of informed decision : 
 
 - Test plan : [Test Plan](https://github.com/Andreea1108/Jira/blob/ad00603e68120e0b315f0e436905919b01ed7a7a/Test%20Plan%20OpenCart.docx)
+- Epics and stories : [Epic-uri si Story-uri](https://github.com/Andreea1108/Jira/blob/1047611afaa4ecd2d15af0be700fccfa02241193/Epic-uri%20si%20Story-uri.pdf)
 - Test conditions :
 - Test cases results : [Test Cases](https://github.com/Andreea1108/Jira/blob/e2190aaccbfc11b837aacdc6d245688356bc330a/Test%20Case-uri.pdf)
 - Daily test summary report : [Daily Report](https://github.com/Andreea1108/Jira/blob/71dc11734f6f9963d0c3cc2c5421e7f21ed4234e/Daily%20Report.png)
