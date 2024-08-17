@@ -64,6 +64,8 @@ For this version of the application the functionalities in the scope of testing 
 
 2. Test process
 
+#### The test process was performed based on the standard test process as described below.
+
   Test planning :
   Roles and responsibilities
   
