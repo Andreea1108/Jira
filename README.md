@@ -149,7 +149,7 @@ The following test deliverables will be provided by the end of the testing proce
 - Test plan : [Test Plan](https://github.com/Andreea1108/Jira/blob/ad00603e68120e0b315f0e436905919b01ed7a7a/Test%20Plan%20OpenCart.docx)
 - Epics and stories : [Epic-uri si Story-uri](https://github.com/Andreea1108/Jira/blob/1047611afaa4ecd2d15af0be700fccfa02241193/Epic-uri%20si%20Story-uri.pdf)
 - Tasks : [Tasks](https://github.com/Andreea1108/Jira/blob/2477378c2e5fbadd58955244b2c8662e3c0b9420/Task-uri.pdf)
-- Test conditions :
+- Test conditions : [Test Conditions](https://github.com/Andreea1108/Jira/blob/7b330e0974f6692275286bc8d5dcbf25dc5f7f9a/Test%20conditions.png)
 - Test cases results : [Test Cases](https://github.com/Andreea1108/Jira/blob/e2190aaccbfc11b837aacdc6d245688356bc330a/Test%20Case-uri.pdf)
 - Daily test summary report : [Daily Report](https://github.com/Andreea1108/Jira/blob/71dc11734f6f9963d0c3cc2c5421e7f21ed4234e/Daily%20Report.png)
 - Traceability matrix : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
