@@ -1,4 +1,4 @@
-# OpenCart
+# Testing Project for OpenCart
 #### Revision History
 | Date| Description | Author | Comment |
 | :-----: | :---: | :---: | :---: |
