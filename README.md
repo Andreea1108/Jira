@@ -140,7 +140,7 @@ The following test deliverables will be provided by the end of the testing proce
 - Test cases results : [Test Cases](https://github.com/Andreea1108/Jira/blob/e2190aaccbfc11b837aacdc6d245688356bc330a/Test%20Case-uri.pdf)
 - Daily test summary report : [Daily Report](https://github.com/Andreea1108/Jira/blob/71dc11734f6f9963d0c3cc2c5421e7f21ed4234e/Daily%20Report.png)
 - Traceability matrix : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
-- Bugs report : 
+- Bugs report : [Bugs](https://github.com/Andreea1108/Jira/blob/2477378c2e5fbadd58955244b2c8662e3c0b9420/Bug-uri.pdf)
 - Test completion report :
 
 4. Schedule
