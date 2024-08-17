@@ -127,7 +127,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 2.5 Test execution
 
-- All functional test cases cases created in Test Design phase are executed and we set the test case status(passed/failed) ;
+- Test cases are executed on the created test Cycle summary V1.0 : [Cycle Summary](https://itfclasses.atlassian.net/projects/SAD?selectedItem=com.thed.zephyr.je__cycle-summary)
 - For the test cases failed we will raise defects ;
 - Regression pack has been ran ;
 - Retesting for the bugs that are fixed by the developers to validate that they issues are not reproduced .
