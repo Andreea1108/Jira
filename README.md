@@ -135,7 +135,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 2.6 Test closure
 
 - Analyze if the exit criteria were met and the testing process can be closed ;
-- Generate the traceability matrix ;
+- The traceability matrix was generated and can be found here : [Traceability matrix](https://github.com/Andreea1108/Jira/blob/c380a88eb339cd31b2f7a0b7400dd725db38cfef/Export%20Traceability%20Matrix.xlsx)
 - Generate the test completion report .
 
 2.7 Test monitoring and control
