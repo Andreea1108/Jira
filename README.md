@@ -193,7 +193,7 @@ The following test deliverables will be provided by the end of the testing proce
 ### Conclusions
 
 Following the testing, I created 20 tests which were successfully executed and all the requirements for the purpose have been covered.
-All the defects found will impact the launch of the product in production because the end user will not be able to place an order for a product, also will not be able to set the payment frequency, he will not be able to print the order or return the product , if this is desired.So they can't be fixed later.
+All the defects found, will impact the launch of the product in production because the end user will not be able to place an order for a product, will not be able to set the payment frequency and he will not be able to print the order or return the product , if this is desired.So they can't be fixed later.
 
 
 
