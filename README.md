@@ -189,6 +189,7 @@ The following test deliverables will be provided by the end of the testing proce
 
 
 Following the testing, I created 20 tests which were successfully executed and all the requirements for the purpose have been covered.
+All the defects found will not impact the launch of the product in production, so they can be fixed later.
 
 
 
