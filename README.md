@@ -117,6 +117,7 @@ Product risks :
 - Analyze the business requirements to make sure that we have all the details for creating the test conditions ;
 - Write test conditions that will be tested in our testing process : [Test Conditions](https://github.com/Andreea1108/Jira/blob/7b330e0974f6692275286bc8d5dcbf25dc5f7f9a/Test%20conditions.png)
 
+![Test Conditions](https://github.com/Andreea1108/Jira/blob/e5c169df6f1acd55a275edc7eb46873727c3f5b8/Test%20conditions.png)
 
 #### 2.3 Test design
 
