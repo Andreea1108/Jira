@@ -40,7 +40,7 @@ OpenCart is free open source e-commerce platform for online merchants. OpenCart 
 
 #### 1.1 Project Objective
 
-The objective of this project is to increase the trust in the quality of the application, to find defects in the live software application, to evaluate the product risks of the application, and to send back to the stakeholders information with regards to the testing process and the level of quality of the application after the improvement process. 
+The objective of this project is to increase the trust in the quality of the application, to find defects in the live software application, to evaluate the product risks of the application and to send back to the stakeholders information with regards to the testing process and the level of quality of the application after the improvement process. 
 
 Application under test :
 https://demo.opencart.com/admin/
