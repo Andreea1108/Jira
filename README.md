@@ -26,12 +26,15 @@ Tools used: Jira, Zephyr Squad.
     7. Test monitoring and control
 #### 3. Test deliverables
     1. Test plan
-    2. Test conditions
-    3. Test cases
-    4. Daily test summary reports
-    5. Traceability matrix
-    6. Test case results
-    7. Bugs report
+    2. Epics and stories
+    3. Tasks
+    4. Test conditions
+    5. Test cases
+    6. Daily test summary reports
+    7. Traceability matrix
+    8. Test case results
+    9. Bugs report
+    
 #### 4. Schedule
 
 ### 1.Introduction
