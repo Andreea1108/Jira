@@ -95,7 +95,7 @@ Entry criteria :
 Exit criteria :
 
 - All the test cases were executed ;
-- 90% of test cases are passed ;
+- 80% of test cases are passed ;
 - The remaining defects/bugs have low severity and low priority ;
 - The project deadline was reached ;
 - The project budget was reached ;
