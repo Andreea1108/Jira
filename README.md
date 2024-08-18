@@ -52,7 +52,7 @@ https://docs.opencart.com/en-gb/introduction/
 
 For this version of the application the functionalities in the scope of testing are : 
 
-- All the features of Admin Interface module,Catalog module,Profiles module and Sales module for the Web application which were defined in OpenCart business requirements : Adding Multiple Languages, Products, Attributes, Options , Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers.
+- All the features of Admin Interface module, Catalog module, Profiles module and Sales module for the Web application which were defined in OpenCart business requirements : Adding Multiple Languages, Products, Attributes, Options , Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers.
 - For the testing process we will use : functional testing, positive testing, negative testing, regression testing and retesting.
 - The testing process will be focused on the following browsers : Chrome and Mozilla latest versions.
 
