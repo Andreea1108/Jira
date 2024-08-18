@@ -142,7 +142,7 @@ Accordingly to the below traceability matrix , we can find the following :
 
 - 9 stories created;
 - 20 test cases : one test case for SAD-10, two test cases for SAD-13, seven test cases for SAD-18, one test case for SAD-35, two test cases for SAD-38, one test case for SAD-43, three test cases for SAD-47, one test case for SAD-54 and one test case for SAD-58.
-- 6 bugs : one bug for test case SAD-40 -> story SAD-38, one bug for test case SAD-30 -> story SAD-18, one bug for test case SAD-22 -> story SAD-18, one bug for test case SAD-24 -> story SAD-18, one bug for test case SAD-53 -> story SAD-47 and one bug for test case SAD-56 -> story SAD-54.
+- 6 bugs found : one bug for test case SAD-40 -> story SAD-38, one bug for test case SAD-30 -> story SAD-18, one bug for test case SAD-22 -> story SAD-18, one bug for test case SAD-24 -> story SAD-18, one bug for test case SAD-53 -> story SAD-47 and one bug for test case SAD-56 -> story SAD-54.
 
 ![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%201.png)
 ![Daily report](https://github.com/Andreea1108/Jira/blob/c25bd3fd20e483fe19ad502649c463365d4b1aa2/Matrice%202.png)
