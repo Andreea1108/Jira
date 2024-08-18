@@ -77,7 +77,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
   Roles asigned to the project and persons allocated :
   
-| Role 1|Alina Maria- Test lead - Will monitor the testing process|
+| Role 1| Alina Maria- Test lead - Will monitor the testing process |
 | :-----: | :---: |
 | Role 2 | Ana Gavrila- Junior Tester - Will write the test conditions and test cases for Adding Multiple Languages, Products, Attributes, Options | 
 | Role 3 | Andreea Dragastan - Senior Tester - Will create the test conditions and test cases for Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers | 
