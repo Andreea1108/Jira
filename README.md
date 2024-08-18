@@ -128,8 +128,8 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 #### 2.5 Test execution
 
-- Test cases are executed on the created test Cycle summary V1.0.
-- Bugs have been created based on the failed tests.The complete bug reports can be found here : [Bugs](https://github.com/Andreea1108/Jira/blob/2477378c2e5fbadd58955244b2c8662e3c0b9420/Bug-uri.pdf)
+- Test cases are executed on the created test Cycle summary V1.0 ;
+- Bugs have been created based on the failed tests.The complete bug reports can be found here : [Bugs](https://github.com/Andreea1108/Jira/blob/2477378c2e5fbadd58955244b2c8662e3c0b9420/Bug-uri.pdf) ;
 - Regression pack has been ran ;
 - Retesting for the bugs that are fixed by the developers to validate that they issues are not reproduced .
 
