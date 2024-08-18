@@ -190,6 +190,7 @@ The following test deliverables will be provided by the end of the testing proce
 - The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section ;
 - All the resources will be adapted accordingly in case new testing resources are detected as necessary .
 
+### Conclusions
 
 Following the testing, I created 20 tests which were successfully executed and all the requirements for the purpose have been covered.
 All the defects found will impact the launch of the product in production because the end user will not be able to place an order for a product, also will not be able to set the payment frequency, he will not be able to print the order or return the product , if this is desired.So they can't be fixed later.
