@@ -9,7 +9,7 @@ Tools used: Jira, Zephyr Squad.
 #### Revision History
 | Date| Description | Author | Comment |
 | :-----: | :---: | :---: | :---: |
-| 27.03.2024 | Test Plan for OpenCart Version 3.0 | Andreea Dragastan |OpenCart Version 2.0 (initial version)|
+| 27.07.2024 | Test Plan for OpenCart Version 3.0 | Andreea Dragastan |OpenCart Version 2.0 (initial version)|
 
 #### Table of Content : 
 #### 1. Introduction
