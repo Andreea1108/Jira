@@ -52,7 +52,7 @@ https://docs.opencart.com/en-gb/introduction/
 
 For this version of the application the functionalities in the scope of testing are : 
 
-- All the features of Admin Interface module for the Web application which were defined in OpenCart business requirements : Overview, Filter, Image Manager,, Adding Multiple Languages,Creating a Multi-Store,Moving a OpenCart to a New Server,SEO Keywords , SSL Certificates and HTTPS,Basic Security Practices.
+- All the features of Admin Interface module,Catalog module,Profiles module and Sales module for the Web application which were defined in OpenCart business requirements : Adding Multiple Languages, Products, Attributes, Options , Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers.
 - For the testing process we will use : functional testing, positive testing, negative testing, regression testing and retesting.
 - The testing process will be focused on the following browsers : Chrome and Mozilla latest versions.
 
@@ -76,10 +76,10 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 | Role 1|Alina Maria- Test lead - Will monitor the testing process|
 | :-----: | :---: |
-| Role 2 | Ana Gavrila- Junior Tester - Will write the test conditions and test cases for Overview, Filter and Image Manager | 
-| Role 3 | Andreea Dragastan - Senior Tester - Will create the test conditions and test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
-| Role 4 | Giurgiu Alexandru - Tester - Will execute the test cases for Overview, Filter and Image Manager and report the defects | 
-| Role 5 | Sabin Bura - Senior Tester -  Will execute the test cases for Adding Multiple Languages and Creating a Multi-Store and Moving a OpenCart to a New Server | 
+| Role 2 | Ana Gavrila- Junior Tester - Will write the test conditions and test cases for Adding Multiple Languages, Products, Attributes, Options | 
+| Role 3 | Andreea Dragastan - Senior Tester - Will create the test conditions and test cases for Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers | 
+| Role 4 | Giurgiu Alexandru - Tester - Will execute the test cases for Adding Multiple Languages, Products, Attributes, Options and will report the defects | 
+| Role 5 | Sabin Bura - Senior Tester -  Will execute the test cases for Adding New Profiles, Applying the profile to a product, Orders, Returns and Gift Vouchers | 
 
 Entry criteria :
 
