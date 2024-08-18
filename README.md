@@ -188,6 +188,8 @@ The following test deliverables will be provided by the end of the testing proce
 - All the resources will be adapted accordingly in case new testing resources are detected as necessary .
 
 
+Following the testing, I created 20 tests which were successfully executed.
+
 
 
 
